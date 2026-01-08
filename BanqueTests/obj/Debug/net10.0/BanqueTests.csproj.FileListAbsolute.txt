@@ -270,3 +270,4 @@ C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueTests\obj\Debug\net10.0\ref
 C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueTests\obj\Debug\net10.0\BanqueTests.pdb
 C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueTests\obj\Debug\net10.0\BanqueTests.genruntimeconfig.cache
 C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueTests\obj\Debug\net10.0\ref\BanqueTests.dll
+C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueTests\obj\Debug\net10.0\BanqueTests.sourcelink.json

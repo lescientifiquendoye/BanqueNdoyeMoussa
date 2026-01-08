@@ -9,3 +9,4 @@ C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueNdoyeMoussa\obj\Debug\net10
 C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueNdoyeMoussa\obj\Debug\net10.0\refint\BanqueNdoyeMoussa.dll
 C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueNdoyeMoussa\obj\Debug\net10.0\BanqueNdoyeMoussa.pdb
 C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueNdoyeMoussa\obj\Debug\net10.0\ref\BanqueNdoyeMoussa.dll
+C:\Users\mouss\RiderProjects\BanqueNdoyeMoussa\BanqueNdoyeMoussa\obj\Debug\net10.0\BanqueNdoyeMoussa.sourcelink.json
